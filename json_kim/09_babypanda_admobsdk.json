@@ -3,16 +3,16 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"XX",
+      "select_backup_ads":"KOSONG",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/9619070577",
       "main_ads_banner":"DefaultBanner",
 
       "backup_ads_intertitial":"DefaultInterstitial",
-      "backup_ads_banner":"DefaultBanner",
+      "backup_ads_banner":"dec1637b81767a67",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"INITIALIZE_SDK_BACKUP_ADS",
+      "initialize_sdk_backup_ads":"206648405",
 
       "interval_intertitial":0,
       "admob_native": "ca-app-pub-6210940764134872/4366743890",
