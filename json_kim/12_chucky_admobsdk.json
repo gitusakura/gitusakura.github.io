@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"KOSONG",
+      "select_backup_ads":"STARTAPP",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/5630668181",
       "main_ads_banner":"DefaultBanner",
