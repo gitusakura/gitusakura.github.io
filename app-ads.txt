@@ -1,6 +1,7 @@
 google.com, pub-6210940764134872, DIRECT, f08c47fec0942fa0
 google.com, pub-6210940764134872, DIRECT, f08c47fec0942fa0
 facebook.com, 2246768878799283, DIRECT, c3e20eee3f780d68
+applovin.com, 9c4973dbda2e611587d464c106063d6a, DIRECT
 
 
 startapp.com, 147224293, DIRECT
