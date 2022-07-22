@@ -3,10 +3,10 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"KG",
+      "select_backup_ads":"KOSONG",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/7585377134",
-      "main_ads_banner":"DefaultBanner",
+      "main_ads_banner":"ebdabbfee0703dd0",
 
       "backup_ads_intertitial":"DefaultInterstitial",
       "backup_ads_banner":"DefaultBanner",
