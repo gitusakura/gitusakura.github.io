@@ -3,12 +3,12 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"MIX",
+      "select_backup_ads":"APPLOVIN-M",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/2096685652",
       "main_ads_banner":"DefaultBanner",
 
-      "backup_ads_intertitial":"DefaultInterstitial",
+      "backup_ads_intertitial":"be4ab3dda43bea0c",
       "backup_ads_banner":"4f7d3de243127c68",
 
       "initialize_sdk":"15fe52c4d",
