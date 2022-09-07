@@ -2,11 +2,11 @@
   "Ads": [
     {
 
-      "select_main_ads":"xx",
-      "select_backup_ads":"xxxxxx",
+      "select_main_ads":"ADMOB",
+      "select_backup_ads":"IRON",
 
-      "main_ads_intertitial":"xx",
-      "main_ads_banner":"DefaultBanner",
+      "main_ads_intertitial":"ca-app-pub-6210940764134872/7837500832",
+      "main_ads_banner":"ca-app-pub-6210940764134872/9071513268",
 
 
       "backup_ads_intertitial":"DefaultInterstitial",
@@ -14,9 +14,9 @@
       "backup_ads_native":"DefaultBanner",
 
       "initialize_sdk":"INITIALIZE_SDK",
-      "initialize_sdk_backup_ads":"206648405",
+      "initialize_sdk_backup_ads":"16604733d ",
 
-      "interval_intertitial":3,
+      "interval_intertitial":4,
       "admob_native": "xx",
       "admob_native2": "xx",
       "admob_open": "xx",
