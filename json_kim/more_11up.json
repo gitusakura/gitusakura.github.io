@@ -3,6 +3,37 @@
   "More": [
     {
       "id": 0,
+      "title": "UPIN IPIN GAME",
+      "image": "https://play-lh.googleusercontent.com/5buEyLoAx1Nn0gx3Dc4r4F0CjNc5wJNOFYl2JSlrD2xZhi9sXdhShKMwjoWWfpxbsk4=s512",
+      "link": "https://play.google.com/store/apps/details?id=com.sa.upinipin_2048"
+    },
+    {
+      "id": 0,
+      "title": "JUNGKOOK GAME",
+      "image": "https://play-lh.googleusercontent.com/pTm_yMiiIpejPbBGvSnYMmy1SwZexd4H3Y1GmmkjfhUIUBr6AaZut6M2dlkjAhA7Fg=s512",
+      "link": "https://play.google.com/store/apps/details?id=com.sa.jungkook_game_bts"
+    },
+    {
+      "id": 0,
+      "title": "BLACKPINK GAME",
+      "image": "https://play-lh.googleusercontent.com/rDO-wcpgxwPEmFGooqkxgcSfE9B_tcDksoNWBxJhx7P1lqd3DB1pQZLtkaUPo53UQKg=s512",
+      "link": "https://play.google.com/store/apps/details?id=com.sa.blackpink_2048"
+    },
+    {
+      "id": 0,
+      "title": "BTS V GAME",
+      "image": "https://play-lh.googleusercontent.com/lGAX-C1DaBVB33OPH1gUR6Bft0qjyr3GWHildk2e2kSI2pmLMgnmlE_FxVBz4yEY9Ds=s512",
+      "link": "https://play.google.com/store/apps/details?id=com.sa.taehyung_game_bts"
+    },
+    {
+      "id": 0,
+      "title": "BTS JIMIN GAME",
+      "image": "https://play-lh.googleusercontent.com/-OmqwYegtlFewHUrzLBZ8aem5lliQa2WC3Dl9XUkzQuL8eUibgzPsmCbzgAiCMg1i3M=s512",
+      "link": "https://play.google.com/store/apps/details?id=com.sa.jimin_game_bts"
+    },
+
+    {
+      "id": 0,
       "title": "BTS 2048 GAME",
       "image": "https://play-lh.googleusercontent.com/URmaix7CSMNp_DlPOojMxHpS8TRn9cXvQW5hTQ043CFiiniYLKJx15MgO5opg9_zOVk=s512",
       "link": "https://play.google.com/store/apps/details?id=com.sa.bts"
@@ -10,7 +41,7 @@
     {
       "id": 0,
       "title": "BOBOIBOY GAME",
-      "image": "https://play-lh.googleusercontent.com/IUWPF65JHlP6nw3iaw-nysXaZuczCs59pdDKRFvwymhDT2RGoX_oZDbSJQ-iLhwQRtU=w480-h960",
+      "image": "https://play-lh.googleusercontent.com/t0sarNgw3v_QKKg0twzhQKJVWmCjBKFhy5r-jxJG7JSJ1_5RiTSZQGm11jc7xrJ5YQ=s512",
       "link": "https://play.google.com/store/apps/details?id=com.sa.boboy_2048"
     },
 
