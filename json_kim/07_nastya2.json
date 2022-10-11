@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"APPLOVIN-M",
+      "select_backup_ads":"SDFS",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/2887191011",
       "main_ads_banner":"ca-app-pub-6210940764134872/7138859775",
@@ -16,7 +16,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"206648405",
 
-      "interval_intertitial":2,
+      "interval_intertitial":1,
       "admob_open": "ca-app-pub-6210940764134872/3817129300",
 
       "hpk1": "",

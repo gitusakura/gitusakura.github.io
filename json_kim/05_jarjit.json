@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"IRON",
+      "select_backup_ads":"FDG",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/9658325957",
       "main_ads_banner":"ca-app-pub-6210940764134872/8316834799",
@@ -14,7 +14,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"165f6bdd5",
 
-      "interval_intertitial":3,
+      "interval_intertitial":1,
       "admob_native": "ca-app-pub-6210940764134872/5719080947",
       "admob_native2": "ca-app-pub-6210940764134872/1779835930",
       "admob_open": "ca-app-pub-6210940764134872/3841509608",

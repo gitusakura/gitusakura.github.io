@@ -2,7 +2,7 @@
   "Ads": [
     {
 
-      "select_main_ads":"xxADMOB",
+      "select_main_ads":"ADMOB",
       "select_backup_ads":"xxSTARTAPP",
 
       "main_ads_intertitial":"xxca-app-pub-6210940764134872/7585377134",
@@ -14,7 +14,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"206648405",
 
-      "interval_intertitial":3,
+      "interval_intertitial":1,
       "admob_native": "xxca-app-pub-6210940764134872/3646132127",
       "admob_native2": "xxca-app-pub-6210940764134872/8706887115",
       "admob_open": "xxca-app-pub-6210940764134872/4217548589",

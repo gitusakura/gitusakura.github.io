@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"SDF",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/5630668181",
       "main_ads_banner":"DefaultBanner",
@@ -14,7 +14,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"206893580",
 
-      "interval_intertitial":3,
+      "interval_intertitial":1,
       "admob_native": "ca-app-pub-6210940764134872/8065259836",
       "admob_native2": "ca-app-pub-6210940764134872/4126014824",
       "admob_open": "ca-app-pub-6210940764134872/6560606477",

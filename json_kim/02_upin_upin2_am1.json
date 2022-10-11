@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"CXSD",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/1108422445",
       "main_ads_banner":"ca-app-pub-6210940764134872/1088241147",
@@ -16,7 +16,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"206648405",
 
-      "interval_intertitial":3,
+      "interval_intertitial":1,
       "admob_open": "ca-app-pub-6210940764134872/8775159475",
 
       "hpk1": "",

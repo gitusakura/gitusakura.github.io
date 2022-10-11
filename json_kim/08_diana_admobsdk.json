@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"STARTAPP",
+      "select_backup_ads":"XXXXS",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/8233287976",
       "main_ads_banner":"DefaultBanner",
@@ -14,7 +14,7 @@
       "initialize_sdk":"INITIALIZE_SDK",
       "initialize_sdk_backup_ads":"206648405",
 
-      "interval_intertitial":3,
+      "interval_intertitial":1,
       "admob_native": "ca-app-pub-6210940764134872/2378326064",
       "admob_native2": "ca-app-pub-6210940764134872/5607124638",
       "admob_open": "ca-app-pub-6210940764134872/4812917710",
