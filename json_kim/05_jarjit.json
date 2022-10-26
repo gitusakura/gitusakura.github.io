@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"FDG",
+      "select_backup_ads":"XX",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/9658325957",
       "main_ads_banner":"ca-app-pub-6210940764134872/8316834799",

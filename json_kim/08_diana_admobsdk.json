@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"XXXXS",
+      "select_backup_ads":"xx",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/8233287976",
       "main_ads_banner":"DefaultBanner",

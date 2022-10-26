@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"xxSTARTAPP",
+      "select_backup_ads":"XX",
 
       "main_ads_intertitial":"xxca-app-pub-6210940764134872/7585377134",
       "main_ads_banner":"ebdabbfee0703dd0",

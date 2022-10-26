@@ -3,10 +3,11 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"DS",
+      "select_backup_ads":"XX",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/5840154775",
       "main_ads_banner":"ca-app-pub-6210940764134872/7344808134",
+      "main_ads_native":"ca-app-pub-6210940764134872/5648583089",
 
 
       "backup_ads_intertitial":"fe732b82dcd23e45",
@@ -18,7 +19,7 @@
 
       "interval_intertitial":1,
       "admob_native": "ca-app-pub-6210940764134872/1900909766",
-      "admob_native2": "ca-app-pub-6210940764134872/5648583089",
+      "admob_native2": "ca-app-pub-6210940764134872/1900909766",
       "admob_open": "ca-app-pub-6210940764134872/3022419743",
 
       "hpk1": "",

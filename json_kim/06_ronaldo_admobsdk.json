@@ -3,7 +3,7 @@
     {
 
       "select_main_ads":"ADMOB",
-      "select_backup_ads":"DSF",
+      "select_backup_ads":"XX",
 
       "main_ads_intertitial":"ca-app-pub-6210940764134872/1768500718",
       "main_ads_banner":"DefaultBanner",
